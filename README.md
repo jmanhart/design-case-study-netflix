@@ -21,3 +21,14 @@ Culling of the data for the most famous (American) TV series that have holiday e
 9. Fresh Prince
 10. 30 Rock
 
+-------
+
+## Options
+
+### 25 Days of Christmas Advent Calendar Option.
+Having just a bunch of different options at you disposale without any context feels very cold. Adding in an element of fun and structure seems more in the nature of the celebration. Christmas already has a whole 25 days of tradition tieing back to the advent calendar. Adding in a checklist approach to keep you watching every night. You can spice in movies as to break up the days.
+
+The list can be populated by what is popular and highest rated by users and also work off of your personal tastes. The list would need to be adaptive to missing days or wanting to skip ahead, and account for all edge cases. Like benge watching. 
+
+
+--------
