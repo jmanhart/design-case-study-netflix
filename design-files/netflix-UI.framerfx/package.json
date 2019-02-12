@@ -1,0 +1,20 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.10.5"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.5",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "e37dcf6d-9ae3-44a3-82d7-728337d2a012"
+	},
+	"author": "John Manhart",
+	"dependencies": {
+		"@framer/benjamin.logo": "^1.6.0"
+	}
+}
