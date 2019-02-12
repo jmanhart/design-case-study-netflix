@@ -21,14 +21,18 @@ Culling of the data for the most famous (American) TV series that have holiday e
 9. Fresh Prince
 10. 30 Rock
 
+After some simple research, scoping this to just include Holiday episodes is very limiting and at the most basic level the problem is collection/playlist creation. 
+
 -------
 
-## Options
+## Collections WIP
+Stepping back from the problem and thinking of it as a whole. What would be good to setup is a `playlist` model. Playlist is usually reserved and accepted for music, so using the term `collection` would be better. Essentially this problem is delivering a collection of episodes. These can be user generated, netflix generated or 3rd party generated. Starting with Netflix generated collections is probably the easiest MVP for the feature since it will not require editing, adding, and creating. 3rd party will require tool integration and company accounts. User generated is the most complex because it needs to be 100% effortless and pleseant to use
 
-### 25 Days of Christmas Advent Calendar Option.
-Having just a bunch of different options at you disposale without any context feels very cold. Adding in an element of fun and structure seems more in the nature of the celebration. Christmas already has a whole 25 days of tradition tieing back to the advent calendar. Adding in a checklist approach to keep you watching every night. You can spice in movies as to break up the days.
-
-The list can be populated by what is popular and highest rated by users and also work off of your personal tastes. The list would need to be adaptive to missing days or wanting to skip ahead, and account for all edge cases. Like benge watching. 
+Battle Plan:
+1. Netflix Generated – Creates the building blocks and suggests collections based on watching habits. Looks for you most popular `watch & repeat` series and culls from those.
+2. Third Party – Outside sources like create collections for a purpose outside tailoring to the users watching habits. Oscar collection, Director Collection, Topic Collection. This would require outside companies to work with Netflix
+3. User Generated – Similiar to creating a music playlist. This would be perfect for people that hate certain episodes of a series (I hate "The Fly" Breaking Bad and r/cantwatchscottstots). This will be fully customizable and give super users the ability to cull their likes.
 
 
 --------
+
