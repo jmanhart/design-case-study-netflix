@@ -32,3 +32,6 @@ Remember the good old days? Let me jog your memory.
 [Article](https://www.sciencedirect.com/science/article/pii/S0022103115000116)
 [Power of Nostalgia](https://www.theguardian.com/society/2014/nov/09/look-back-in-joy-the-power-of-nostalgia)
 [Passion for the Past](http://fabrikbrands.com/nostalgia-marketing/)
+[Netlfix & Nostalgia](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/11/22/is-netflix-doing-nostalgia-better-than-anyone-else-right-now/?noredirect=on&utm_term=.695cd6189c7e)
+[Tapping into Nostalgia](https://blog.hubspot.com/marketing/examples-nostalgia-marketing-ads)
+[Tapping into Nostalgia...more](https://startupmindset.com/13-brands-that-are-using-nostalgia-marketing-and-why-its-working-brilliantly/)
